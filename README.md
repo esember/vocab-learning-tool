@@ -69,4 +69,7 @@ The **Read** button cycles through 4 modes:
 
 ## License
 
-MIT — free to use and adapt.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Free to use, fork, and adapt **with attribution**.
+
+If you use this project or build upon it, please credit the original author:
+> Built by [Gursel Olca](https://github.com/esember) — [mekazek.com/english](https://mekazek.com/english)
